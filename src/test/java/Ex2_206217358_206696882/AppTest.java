@@ -1,7 +1,6 @@
 package Ex2_206217358_206696882;
 
-import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertTrue;
+import static org.junit.Assert.*;
 
 import org.junit.Test;
 
