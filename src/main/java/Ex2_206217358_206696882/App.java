@@ -7,7 +7,7 @@ package Ex2_206217358_206696882;
 public class App 
 {
 	/**
-	 * Section A - a function that converts grades into letters and words according to the table in question 1
+	 * Question 1, Section A - a function that converts grades into letters and words according to the table in question 1
 	 * @param grade 
 	 * @return A letter or word according to the grade received as a parameter
 	 */
