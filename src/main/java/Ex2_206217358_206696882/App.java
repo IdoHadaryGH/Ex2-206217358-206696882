@@ -11,7 +11,7 @@ public class App
 	 * @param grade 
 	 * @return A letter or word according to the grade received as a parameter
 	 */
-	public static String numberToCharacter(int grade)
+	public static String convertsNumberToCharacter(int grade)
 	{
 		if (grade >= 1 && grade <= 49) {
 			return "F";
